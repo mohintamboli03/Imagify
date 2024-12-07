@@ -9,7 +9,7 @@ const AppContextProvider = (props) => {
   const [showLogin, setShowLogin] = useState(false);
   const [token, setToken] = useState(localStorage.getItem("token"));
   const [credit, setCredit] = useState(false);
-  const backendUrl = import.meta.env.VITE_BACKEND_URL;
+  const backendUrl ="https://imagify-1-zxax.onrender.com";
   const navigate=useNavigate() 
 
 
