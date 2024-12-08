@@ -31,7 +31,7 @@ const Header = () => {
         animate={{ opacity: 1, y: 0 }}
         transition={{ delay: 0.2, duration: 0.8 }}
       >
-        <p>Best text to image genrator</p>
+        <p>Best text to image generator</p>
         <img src={assets.star_icon} alt="" />
       </motion.div>
 
