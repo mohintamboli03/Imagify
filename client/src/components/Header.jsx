@@ -101,7 +101,7 @@ const Header = () => {
         transition={{ delay: 1.2, duration: 0.8 }}
         className="mt-2 text-neutral-600"
       >
-        Genrated Images from imagify
+        Generated Images from imagify
       </motion.p>
     </motion.div>
   );
