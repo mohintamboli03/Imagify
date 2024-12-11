@@ -69,7 +69,7 @@ const Header = () => {
           opacity: { delay: 0.8, duration: 1 },
         }}
       >
-        Genrate Images
+        Generate Images
         <img className="h-6" src={assets.star_group} alt="" />
       </motion.button>
 
