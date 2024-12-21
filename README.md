@@ -38,8 +38,8 @@ Make sure you have the following installed on your machine:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/imagify.git
-    cd imagify
+    git clone https://github.com/mohintamboli03/Imagify.git
+    cd Imagify
     ```
 
 2. Install dependencies for both frontend and backend:
